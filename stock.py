@@ -1,3 +1,5 @@
+#Im using imported modules to webscrape Tesla stock qoutes.
+
 import datetime as dt
 import matplotlib.pyplot as plt
 from matplotlib import style
