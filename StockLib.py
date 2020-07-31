@@ -8,6 +8,7 @@ import pandas
 import pandas_datareader.data as web
 import yfinance as yf
 
+
 def GetQuote(tickersymbol):
     style.use('ggplot')
     start = dt.now() + td(days=-7)
